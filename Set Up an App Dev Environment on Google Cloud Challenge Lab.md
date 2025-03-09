@@ -1,7 +1,4 @@
-# Set Up an App Dev Environment on Google Cloud: Challenge Lab || [GSP315](https://www.cloudskillsboost.google/focuses/10379?parent=catalog) ||
-
-## Solution [here](https://youtu.be/lYPt_N54QbQ)
-
+# Set Up an App Dev Environment on Google Cloud: Challenge Lab 
 ### Run the following Commands in CloudShell
 
 ```
@@ -24,6 +21,3 @@ sudo chmod +x gsp315.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
